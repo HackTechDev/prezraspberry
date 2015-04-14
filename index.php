@@ -48,6 +48,10 @@
 
 				<?php include("caracteristique.php"); ?>
 
+	        	<?php include("gpio.php"); ?>
+
+                <?php include("materielsupplementaire.php"); ?>
+
 				<?php include("projets.php"); ?>
 
 				<?php include("liens.php"); ?>

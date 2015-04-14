@@ -1,7 +1,7 @@
 
 				<section>
 					<section>				    
-				       <h2>Les projets</h2>			
+				       <h1>Les projets</h1>			
 				         <p class="fragment">Borne d'arcade</p>
                          <p class="fragment">Bureautique</p>
                          <p class="fragment">Domotique</p>
