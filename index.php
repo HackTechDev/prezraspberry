@@ -42,6 +42,8 @@
 			
 				<?php include("couverture.php"); ?>
         
+                <?php include("ordinateur.php"); ?>
+
 				<?php include("sommaire.php"); ?>
             
                 <?php include("historique.php"); ?>			
