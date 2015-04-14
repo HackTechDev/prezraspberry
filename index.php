@@ -46,6 +46,8 @@
             
                 <?php include("historique.php"); ?>			
 
+                <?php include("objectif.php"); ?>			
+
 				<?php include("caracteristique.php"); ?>
 
 	        	<?php include("gpio.php"); ?>
