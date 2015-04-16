@@ -1,5 +1,5 @@
 				<section>
-					<h2>Les caractéristiques techniques</h2>
+					<h2>Caractéristiques techniques</h2>
 
 					<section>
                         <table>
