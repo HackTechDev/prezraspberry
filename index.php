@@ -54,9 +54,15 @@
 
 	        	<?php include("gpio.php"); ?>
 
-                <?php include("materielsupplementaire.php"); ?>
+                <?php include("photo.php"); ?>
+
+                <?php include("materielaacheter.php"); ?>
+
+				<?php include("installation.php"); ?>
 
 				<?php include("projets.php"); ?>
+
+				<?php include("peripherique.php"); ?>
 
 				<?php include("liens.php"); ?>
 
