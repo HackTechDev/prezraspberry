@@ -4,7 +4,7 @@
 					<p>
                         <ul>
                             <li>Encourager l'apprentissage de la programmation informatique</li>
-                            <li>Faire un ordinateur bon marché</li>
+                            <li>Fabriquer un ordinateur bon marché</li>
                         </ul>
 					</p>
 				</section>

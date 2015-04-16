@@ -1,8 +1,10 @@
                 <section>
                     <h2>GPIO (General Purpose Input/Output)</h2>
                     <p>
-                    Communication avec d'autres circuit électronique
-                    Programmation en C et Python
+                            <ul>
+                                <li>Communication avec d'autres circuits électroniques : Arduino</li>
+                                <li>Programmable en C et Python</li>
+                            </ul>
                     </p>
                 
                 </section>
