@@ -1,5 +1,5 @@
                 <section>
-                    <h1>Matériel à acheter</h1>
+                    <h1>Matériels à acheter</h1>
                     <p>
                             <ul>
                                 <li>Un écran : HDMI, composite ou VGA (adaptateur HDMI/VGA)</li>
