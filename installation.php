@@ -1,5 +1,5 @@
                 <section>
-                    <h1>Installation</h1>
+                    <h1>Une installation très simple</h1>
                     <p>
                         <ul>
                                 <li>Télécharger l'image du système d'exploitation</li>
