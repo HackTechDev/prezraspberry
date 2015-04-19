@@ -60,7 +60,7 @@
 
 				<?php include("installation.php"); ?>
 
-				<?php include("projets.php"); ?>
+				<?php include("projet.php"); ?>
 
 				<?php include("peripherique.php"); ?>
 
