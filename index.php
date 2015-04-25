@@ -68,6 +68,8 @@
 
 				<?php include("zeend.php"); ?>
 
+                <?php include("sponsor.php"); ?>
+
 			</div>
 
 		</div>
