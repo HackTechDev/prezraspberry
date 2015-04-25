@@ -1,20 +1,30 @@
 
 				<section>
                         <h1>Photos</h1>
+
 					<section>				    
-				       <h2>Photos d'ensemble</h2>			
+				       	<img src="image/rpi01.jpg" width="50%">	
 					</section>
 						                       			
 					<section>
-						<h2>GPIO</h2>
-						<p></p>
+                        <img src="image/rpi02.jpg" width="50%">
 					</section>
 					
 					<section>
-						<h2>Connectique</h2>
-						<p></p>
-						<br>	
+                        <img src="image/rpi03.jpg" width="50%">
 					</section>
 
+		    		<section>				    
+				       	<img src="image/rpi04.jpg" width="50%">	
+					</section>
+						                       			
+					<section>
+                        <img src="image/rpi05.jpg" width="50%">
+					</section>
 					
+					<section>
+                        <img src="image/rpi06.jpg" width="50%">
+					</section>
+
+				
 				</section>
